@@ -1,0 +1,4 @@
+Class Patient{
+String name;
+int id;
+}
