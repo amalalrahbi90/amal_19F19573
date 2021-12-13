@@ -1,0 +1,4 @@
+string patient name, int phone, 
+string address,
+int age 
+read patient name, phone, address, age
