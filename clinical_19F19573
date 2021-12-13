@@ -2,3 +2,6 @@ string patient name, int phone,
 string address,
 int age 
 read patient name, phone, address, age
+ read weight,
+ if weight> 1000 then 
+ display obese
